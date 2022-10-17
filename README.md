@@ -7,5 +7,5 @@ https://blog.csdn.net/GTbond/article/details/122484553?spm=1001.2101.3001.6661.1
 * 使用setting sync插件，点击sync:download settings，输入gist ID和tocken下载配置
 ```
 gist ID：8ddf0b4264aa811313707eb6ba69e882
-token：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
+token：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
 ```
